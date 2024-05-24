@@ -3,5 +3,3 @@
 let number;
 
 number = Number (prompt("Introduce un numero: "));
-
-
